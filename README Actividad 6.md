@@ -156,9 +156,8 @@ Actividad6_Teclado_Digitos/
 
 ## 7. Evidencias
 
-🎥 **Punto 1 – video de funcionamiento:** *(pega aquí el enlace del video)*
+🎥 video de funcionamiento:** *(https://drive.google.com/drive/u/0/folders/1ABYW4ooAyx6Ivvj62gKILjlh1gHZZKSv)*
 
-🎥 **Punto 2 – video de funcionamiento:** *(pega aquí el enlace del video)*
 
 ## Referencias
 - [Repositorio del curso (U_Militar)](https://github.com/dialejobv/U_Militar)
