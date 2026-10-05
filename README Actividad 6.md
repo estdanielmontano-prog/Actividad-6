@@ -7,12 +7,6 @@ Práctica de Micros con dos puntos:
 
 Se usó como base el brazo `brazo.urdf` y los ejemplos de OpenCV del repositorio del curso ([dialejobv/U_Militar](https://github.com/dialejobv/U_Militar)).
 
-| Enunciado Punto 1 | Enunciado Punto 2 |
-|---|---|
-| ![Punto 1](docs/enunciado_punto1.png) | ![Punto 2](docs/enunciado_punto2_a.png) |
-
----
-
 ## 1. Objetivo
 
 **Punto 1**
