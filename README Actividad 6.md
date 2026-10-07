@@ -65,8 +65,6 @@ El brazo se mueve con tres articulaciones del URDF:
 
 **OLED en la ESP-B:** SDA = GPIO21, SCL = GPIO22, VCC = 3.3 V, GND.
 
-📷 *Coloca aquí las fotos de los montajes:* `evidencias/punto1/montaje.jpg` y `evidencias/punto2/montaje.jpg`
-
 ## 4. Arquitectura
 
 **Punto 1**
